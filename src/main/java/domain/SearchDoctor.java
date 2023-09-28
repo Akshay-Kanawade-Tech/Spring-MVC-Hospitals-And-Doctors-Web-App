@@ -1,8 +1,12 @@
 package domain;
 
 
+<<<<<<< HEAD
 //solving conflict issue
 
+=======
+//solving it conflict
+>>>>>>> feature/AK/SpringMVC/28/0923
 public class SearchDoctor {
 
     private int doct_id;
