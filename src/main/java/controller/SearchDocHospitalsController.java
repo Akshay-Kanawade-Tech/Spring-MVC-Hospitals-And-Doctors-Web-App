@@ -15,6 +15,8 @@ import org.springframework.web.servlet.ModelAndView;
 @SessionAttributes("doctorsSearchBar")
 public class SearchDocHospitalsController {
 
+
+    //this is my controller page
     SearchDoctorDao searchDoctorDao;
 
     @Autowired
