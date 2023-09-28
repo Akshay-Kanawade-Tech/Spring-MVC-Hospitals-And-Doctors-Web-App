@@ -1,5 +1,7 @@
 package domain;
 
+
+//solving it conflict
 public class SearchDoctor {
 
     private int doct_id;
