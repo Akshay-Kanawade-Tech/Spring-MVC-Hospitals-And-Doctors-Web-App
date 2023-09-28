@@ -17,6 +17,8 @@ public class SearchDocHospitalsController {
 
 
     //this is my controller page
+
+    //I am trying to merge 2 branches using command prompt
     SearchDoctorDao searchDoctorDao;
 
     @Autowired
