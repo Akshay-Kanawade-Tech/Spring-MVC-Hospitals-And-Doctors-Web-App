@@ -1,0 +1,3 @@
+controller\SearchDocHospitalsController.class
+domain\SearchDoctor.class
+dao\SearchDoctorDao.class
