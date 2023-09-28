@@ -17,6 +17,8 @@ public class SearchDocHospitalsController {
 
 
     //this is my controller page
+
+
     SearchDoctorDao searchDoctorDao;
 
     @Autowired
