@@ -1,5 +1,6 @@
 package dao;
 
+//I am trying to merge 2 branches using command prompt
 import domain.SearchDoctor;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
